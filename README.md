@@ -5,7 +5,7 @@ The aim was to develop VBA Script to produce summary table  which displays ticke
 VBA script is available in excel data file named Multi_year_stock_data_WSH in the repository.
 
 # SAMPLE RESULTS 
-Runnning the VBA Script will result in the following sample pictures attached below for each years. 
+Runnning the VBA Script will result in the following sample pictures taken from the first page of many pages attached below for each years. The remainig can be found by running the main excel file in repository. 
 
 2014
 ![2014](https://user-images.githubusercontent.com/84547558/147869417-b862bd14-730b-4e00-bbb1-60f38502f68f.JPG)
