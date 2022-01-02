@@ -1,5 +1,6 @@
 # VBA_CHALLENGE_HM2
 This project work analyzed given stock market data of years 2014 through 2016 using VBA Scripting. The given data are ticker symbols, opening and closing prices for each years,volume sales and others. And apply conditional formatting that will highlight positive change in green and negative change in red using VBA colorIndex.
+
 The aim was to develop VBA Script to produce summary table  which displays ticker symbols, yearly change, percent change and total stock volume with their corresponding tickers and values. 
 # VBA SCRIPT 
 VBA Script that will loop through all the stocks within given years which displays the following information was developed;
@@ -17,6 +18,8 @@ VBA Script that will loop through all the stocks within given years which displa
 
 
 -Conditional formatting that will highlight positive change in green and negative change in red was developed.
+
+-Adjustment has been done to VBA script to allow it to run on every worksheet, i.e., every year, just by running the VBA script once.
 
 Moreover, as bonus part greatest percent increase, greatest percent decrease and greatest total volume with their corresponding tickers and values were created among given data set. And the same VBA script developed above was applied to another data file named Alphabetical_Testing_WSH and its included in the repository. 
 
