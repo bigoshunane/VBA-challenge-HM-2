@@ -1,7 +1,7 @@
 # VBA_CHALLENGE_HM2
 This project work analyzed given stock market data of years 2014 through 2016 using VBA Scripting. The given data are ticker symbols, opening and closing prices for each years,volume sales and others.
 The aim was to develop VBA Script to produce summary table  which displays ticker symbols, yearly change, percent change, total stock volume, greatest percen increase volume, greatest percent increase volume, greatest total volume with their corresponding tickers and values. 
-#VBA SCRIPT 
+# VBA SCRIPT 
 VBA script is available in excel data file named Multi_year_stock_data_WSH in the repository.
 
 # SAMPLE RESULTS 
