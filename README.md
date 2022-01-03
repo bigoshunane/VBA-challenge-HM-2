@@ -21,11 +21,11 @@ VBA Script that will loop through all the stocks within given years which displa
 
 -Adjustment has been done to VBA script to allow it to run on every worksheet, i.e., every year, just by running the VBA script once.
 
-Moreover, as bonus part greatest percent increase, greatest percent decrease and greatest total volume with their corresponding tickers and values were created among given data set. And the same VBA script developed above was applied to another data file named Alphabetical_Testing_WSH and its included in the repository. 
+Moreover, as bonus part greatest percent increase, greatest percent decrease and greatest total volume with their corresponding tickers and values were created among given data set. And the same VBA script developed above was applied to another data file named Alphabetical_Testing_WSH.xlsm and its included in the repository. 
 
 
 
-VBA script for excel dataset file named Multi_year_stock_data_WSH is available in the repository.
+VBA script for excel dataset file named Multi_year_stock_data_WSH.xlsm is available in the repository.
 
 # SAMPLE RESULTS 
 Runnning the VBA Script will result in the following sample pictures taken from the first page of many pages attached below for each years. The remainig can be found by running the main excel file in repository. 
