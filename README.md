@@ -39,3 +39,5 @@ Runnning the VBA Script will result in the following sample pictures taken from 
 
 2016
 ![2016](https://user-images.githubusercontent.com/84547558/147869421-1faf3959-4fc6-48ff-a94f-6287f0a740f5.JPG)
+
+© 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
