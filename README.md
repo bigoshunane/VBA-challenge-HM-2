@@ -2,7 +2,10 @@
 
 # Project background
 
+You are well on your way to becoming a programmer and Excel master! In this homework assignment, you will use VBA scripting to analyze real stock market data. Depending on your comfort level with VBA, you may choose to challenge yourself with a few of the challenge tasks.
+
 # Objective
+
 The aim of this project is to develop VBA Script to produce summary table  which displays ticker symbols, yearly change, percent change and total stock volume with their corresponding tickers and values, given Wall Street stock market data of years 2014 through 2016 using VBA Scripting. The given data are ticker symbols, opening and closing prices for each years,volume sales and others. And apply conditional formatting that will highlight positive change in green and negative change in red using VBA colorIndex.
 
 # VBA SCRIPT 
