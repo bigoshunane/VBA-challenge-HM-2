@@ -1,4 +1,4 @@
-# The VBA of Wall Street
+# Wall Street Stock Analysis
 
 ## Project background
 
@@ -24,7 +24,7 @@ Moreover, as bonus part greatest percent increase, greatest percent decrease and
 
 VBA script for excel dataset file named Multi_year_stock_data_WSH.xlsm is available in the repository.
 
-## SAMPLE RESULTS 
+## Results
 Runnning the VBA Script will result in the following sample pictures taken from the first page of many pages attached below for each years. The remainig can be found by running the main VBA Script file in repository. 
 
 2014 data:
